@@ -39,7 +39,7 @@ All projects are handled directly with **Techry** — ensuring you get fast, per
 ## 📬 Contact
 
 - Website: [exora.dev](#)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [hello@exora.dev](mailto:hello@exora.dev)
 
 ---
 
