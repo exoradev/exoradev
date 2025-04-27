@@ -1,8 +1,9 @@
 <!-- Drop your logo below (replace with actual path or URL) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1541491-d45f-4917-a8a2-8e3166c9e149" alt="Exora Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/27e9bbda-0593-4d6d-87a9-14040a7e37bb" alt="Exora Logo" width="200"/>
 </p>
+
 
 <h1 align="center" style="color:white;">Exora</h1>
 <p align="center" style="color: #999;">
